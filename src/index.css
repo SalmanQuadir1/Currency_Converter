@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+
+label {
+  font-size: large;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
